@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Assignment_c.dir/main.c.o  -o Assignment_c.exe -Wl,--out-implib,libAssignment_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
